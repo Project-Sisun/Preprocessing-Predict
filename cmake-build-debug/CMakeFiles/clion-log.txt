@@ -1,0 +1,29 @@
+/home/sisun/Desktop/clion/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/sisun/CLionProjects/untitled
+-- Found avformat include dirs: /usr/include/x86_64-linux-gnu
+-- Using FFMpeg dir parent as hint: /usr/include
+-- Found avformat libs: /usr/lib/x86_64-linux-gnu/libavformat.so
+-- found avformat: include /usr/include/x86_64-linux-gnu lib /usr/lib/x86_64-linux-gnu/libavformat.so
+-- Checking for module 'avdevice'
+--   No package 'avdevice' found
+-- look for newer strcture
+-- Checking for module 'libavdevice'
+--   No package 'libavdevice' found
+-- Can't find includes for avdevice...
+-- Found avcodec include dirs: /usr/include/x86_64-linux-gnu
+-- Using FFMpeg dir parent as hint: /usr/include
+-- Found avcodec libs: /usr/lib/x86_64-linux-gnu/libavcodec.so
+-- found avcodec: include /usr/include/x86_64-linux-gnu lib /usr/lib/x86_64-linux-gnu/libavcodec.so
+-- Found avutil include dirs: /usr/include/x86_64-linux-gnu
+-- Using FFMpeg dir parent as hint: /usr/include
+-- Found avutil libs: /usr/lib/x86_64-linux-gnu/libavutil.so
+-- found avutil: include /usr/include/x86_64-linux-gnu lib /usr/lib/x86_64-linux-gnu/libavutil.so
+-- Found swscale include dirs: /usr/include/x86_64-linux-gnu
+-- Using FFMpeg dir parent as hint: /usr/include
+-- Found swscale libs: /usr/lib/x86_64-linux-gnu/libswscale.so
+-- found swscale: include /usr/include/x86_64-linux-gnu lib /usr/lib/x86_64-linux-gnu/libswscale.so
+-- Could not find FFMPEG
+-- 
+-- Could NOT find FFMPEG (missing:  FFMPEG_LIBRARIES FFMPEG_INCLUDE_DIRS) 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/sisun/CLionProjects/untitled/cmake-build-debug
